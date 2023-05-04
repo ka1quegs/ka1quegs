@@ -25,7 +25,5 @@
 <img align="center" alt="nvidia" src="https://img.shields.io/badge/NVIDIA-RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 </div>
-<div align="center">
-  ![Snake animation](https://github.com/ka1quegs/ka1quegs/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
